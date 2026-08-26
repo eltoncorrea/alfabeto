@@ -1,6 +1,6 @@
 # Alfabeto Sign
 
-![Logo da empresa](assets/logo.jpg)
+<img src="assets/logo.jpg" alt="ogo da empresa" width="64" height="69">
 
 ## Empresa de Comunicação Visual
 
